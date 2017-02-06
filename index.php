@@ -16,16 +16,22 @@ require 'aws-autoloader.php';
     <script type="text/javascript" src="public/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="public/js/scripts.js"></script>
   </head>
+  <body>
    <div id="top">
-    <h1><font>Welcome to</font></h1> <br>
+    <h1><font>Welcome to</font></h1> 
     <h1><font>jodymoore.net!</font></h1>
    </div>
    <div id="middle"> 
     <img text-align="center" alt="creds"  src="img/myPic3.jpg"/>
+   <nav class="nav nav-pills">
+     <ul>
+       <li><a href="/public/login.php"><h3><font>DevOpsPage</font></h3></a></li>
+     </ul>
+   </nav>
+    
     
    </div> 
    <div id="bottom">
-     <a href="/public/login.php"><h3><font>DevOpsPage</font></h3></a> 
      <img alt="creds"  src="img/CSA.jpg" width="10%" height="10%" />   
    </div>
   </body>
