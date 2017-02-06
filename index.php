@@ -11,10 +11,10 @@ require 'aws-autoloader.php';
     <link href="/css1/bootstrap-theme.min.css" rel="stylesheet"/>
     <link href="/css1/styles.css" rel="stylesheet"/>
 
-    <script type="text/javascript" src="css1/js/jquery-1.8.0.min.js"></script> 
-    <script type="text/javascript" src="css1/js/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="css1/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="css1/js/scripts.js"></script>
+    <script type="text/javascript" src="public/js/jquery-1.8.0.min.js"></script> 
+    <script type="text/javascript" src="public/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="public/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="public/js/scripts.js"></script>
   </head>
    <div id="top">
     <h1><font>Welcome to</font></h1> <br>
@@ -25,7 +25,7 @@ require 'aws-autoloader.php';
     
    </div> 
    <div id="bottom">
-     <a href="/public/index.php"><h3><font>DevOpsPage</font></h3></a> 
+     <a href="/public/login.php"><h3><font>DevOpsPage</font></h3></a> 
      <img alt="creds"  src="img/CSA.jpg" width="10%" height="10%" />   
    </div>
   </body>
