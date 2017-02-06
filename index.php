@@ -7,14 +7,14 @@ require 'aws-autoloader.php';
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Jody Moore</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet"/>
-    <link href="/css/bootstrap-theme.min.css" rel="stylesheet"/>
-    <link href="/css/styles.css" rel="stylesheet"/>
+    <link href="/css1/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/css1/bootstrap-theme.min.css" rel="stylesheet"/>
+    <link href="/css1/styles.css" rel="stylesheet"/>
 
-    <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script> 
-    <script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/js/scripts.js"></script>
+    <script type="text/javascript" src="css1/js/jquery-1.8.0.min.js"></script> 
+    <script type="text/javascript" src="css1/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="css1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="css1/js/scripts.js"></script>
   </head>
    <div id="top">
     <h1><font>Welcome to</font></h1> <br>
