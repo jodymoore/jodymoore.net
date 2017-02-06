@@ -16,6 +16,27 @@
   display: block;
 }
 
+#top{  
+  border-top: 5px solid black;    
+  background-color: #CCCCCC;
+  border-bottom: 5px solid black;
+}
+
+#middle{      
+padding-top: 50px;
+}
+
+#bottom{      
+  border-top: 5px solid black;    
+  background-color: #CCCCCC;
+  margin-top: 16.5%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
+
 #middle img {
   margin-left: auto;
   margin-right: auto;
@@ -23,8 +44,17 @@
   border-radius: 10px;
 }
 
+#middle nav{
+  text-decoration: none;
+  list-style-type: none;
+}
+
 #bottom img {
   margin-left: auto;
   margin-right: auto;
-  display: block
+  display: block;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
+
+
