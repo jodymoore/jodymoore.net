@@ -25,7 +25,7 @@ require 'aws-autoloader.php';
     <img text-align="center" alt="creds"  src="img/myPic3.jpg"/>
    <nav class="nav nav-pills">
      <ul>
-       <li><a href="/public/login.php"><h3><font>DevOpsPage</font></h3></a></li>
+       <a href="/public/login.php"><h3><font>DevOpsPage</font></h3></a>
      </ul>
    </nav>
     
