@@ -19,7 +19,7 @@ require 'aws-autoloader.php';
   <body>
    <div id="top">
     <h1><font>Welcome to</font></h1> 
-    <h1><font>jodymoore.net!</font></h1>
+    <h1><font>JodyMoore.net</font></h1>
    </div>
    <div id="middle"> 
     <img text-align="center" alt="creds"  src="img/myPic3.jpg"/>
