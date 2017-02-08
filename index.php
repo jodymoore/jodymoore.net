@@ -26,6 +26,7 @@ require 'aws-autoloader.php';
    <nav class="nav nav-pills">
      <ul>
        <a href="/public/login.php"><h3><font>DevOpsPage</font></h3></a>
+       <a href="/SimpleInvoice/index.php"><h3><font>SimpleInvoice</font></h3></a>
      </ul>
    </nav>
     
