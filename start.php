@@ -4,11 +4,17 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
-	<link rel="stylesheet" href="">
+	 <link href="/css1/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/css1/bootstrap-theme.min.css" rel="stylesheet"/>
+    <link href="/css1/styles.css" rel="stylesheet"/>
+
+    <script type="text/javascript" src="public/js/jquery-1.8.0.min.js"></script> 
+    <script type="text/javascript" src="public/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="public/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="public/js/scripts.js"></script>
 </head>
   <body>
    <div id="top">
-    <h1><font>Welcome to</font></h1> 
     <h1><font>DevOpsPage</font></h1>
    </div>
    <div id="middle"> 
