@@ -19,11 +19,11 @@
    <div id="middle"> 
     <img id="mimg" text-align="center" alt="creds"  src="img/devopsLogo.png"/>
    <nav class="nav nav-pills">
-     <ul>
-     
-       
-     <a href="/public/login.php"><img id="iot"  alt="creds"  src="img/iot.png"/></a>
-     <a href="/SimpleInvoice/index.php"><img id="devpic"  alt="creds"  src="img/devPic.png"/></a>
+     <ul>      
+     <a href="/public/login.php"><img id="iot"  alt="creds"  src="img/iot.png" width="25px"  height="50px" /></a><br><caption> 
+     <font id ="cap" >Link to Rover1 a network controlled remote operated vehichle</font></caption>
+     <br><br>
+     <a href="/SimpleInvoice/index.php"><img id="devpic"  alt="creds"  src="img/devPic.png"/></a><br><caption><font id ="cap" >Link to Simple Invoice current development</font></caption>
      </ul>
    </nav>
       
