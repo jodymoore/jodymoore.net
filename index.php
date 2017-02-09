@@ -22,14 +22,24 @@ require 'aws-autoloader.php';
     <h1><font>JodyMoore.net</font></h1>
    </div>
    <div id="middle"> 
-    <img text-align="center" alt="creds"  src="img/myPic3.jpg"/>
+    <img id ="mimg" text-align="center" alt="creds"  src="img/myPic3.jpg"/>
    <nav class="nav nav-pills">
      <ul>
        <a href="start.php"><h3><font>DevOpsPage</font></h3></a>
      </ul>
    </nav>
-    
-    
+   <div id="PAWS">
+   <article>
+   <header class="post-header">
+     <h2 class="post-title">Powered By AWS</a></h2>
+     <section>
+       <p>
+        This site is powered by a public facing L.A.M.P web server hosted on an Amazon Web Services Ec-2 instance deployed in a Virtual Private Cloud  for increased security. The site is Highly-Available and fault tolerent. 
+       </p>
+       <img id = "imgpaws"alt="paws"  src="img/paws.png" width="25%" height="25%" /> 
+     </section>  
+   </article>  
+   </div>
    </div> 
    <div id="bottom">
      <img alt="creds"  src="img/CSA.jpg" width="10%" height="10%" />   
