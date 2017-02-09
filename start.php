@@ -15,18 +15,18 @@
 </head>
   <body>
    <div id="top">
-    <h1><font>DevOpsPage</font></h1>
    </div>
    <div id="middle"> 
-    <img id="mimg" text-align="center" alt="creds"  src="img/myPic3.jpg"/>
+    <img id="mimg" text-align="center" alt="creds"  src="img/devopsLogo.png"/>
    <nav class="nav nav-pills">
      <ul>
-       <a href="/public/login.php"><h3><font>Rover1</font></h3></a>
-       <a href="/SimpleInvoice/index.php"><h3><font>SimpleInvoice</font></h3></a>
+     
+       
+     <a href="/public/login.php"><img id="iot"  alt="creds"  src="img/iot.png"/></a>
+     <a href="/SimpleInvoice/index.php"><img id="devpic"  alt="creds"  src="img/devPic.png"/></a>
      </ul>
    </nav>
-    
-    
+      
    </div> 
    <div id="bottom">
      <img alt="creds"  src="img/CSA.jpg" width="10%" height="10%" />   
