@@ -30,6 +30,21 @@
   height: 47px;
   background-color: black;
 }
+
+
+#dvpg{
+  color: white;
+   font-style: 20px;
+  border-radius: 10px;
+  width: 250px;
+  height: 47px;
+  background-color: black;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+
   
 #cap {
   font-weight: bold;
@@ -43,6 +58,10 @@
   background-color: black;
 }
 
+#nav{
+  margin-left: 20px;
+}
+
 
 #top{  
   border-top: 5px solid black;    
@@ -53,6 +72,7 @@
 
 #middle{      
 padding-top: 50px;
+
 }
 
 #bottom{      
