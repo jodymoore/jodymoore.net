@@ -23,18 +23,20 @@ require 'aws-autoloader.php';
    </div>
    <div id="middle"> 
     <img id ="mimg" text-align="center" alt="creds"  src="img/myPic3.jpg"/>
+   <div id="nav">
    <nav class="nav nav-pills">
-     <ul>
-       <a href="start.php"><h3><font>DevOpsPage</font></h3></a>
+     <ul id = "devul" >
+       <a href="start.php"><h3><font id="dvpg">DevOpsPage</font></h3></a>
      </ul>
    </nav>
+   </div>
    <div id="PAWS">
    <article>
    <header class="post-header">
      <img id = "imgpaws"alt="paws"  src="img/paws.png" width="30%" height="30%" />
      <section>
        <p>
-        This site is powered by a public facing L.A.M.P web server hosted on an Amazon Web Services Ec-2 instance deployed in a Virtual Private Cloud  for increased security. The site is Highly-Available and fault tolerent. 
+        This site is powered by a public facing L.A.M.P production server hosted on an Amazon Web Services Ec-2 instance deployed in a Virtual Private Cloud  for increased security. The site is Highly-Available and fault tolerent. 
        </p>
         
      </section>  
