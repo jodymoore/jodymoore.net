@@ -18,7 +18,7 @@
     <h1><font>DevOpsPage</font></h1>
    </div>
    <div id="middle"> 
-    <img text-align="center" alt="creds"  src="img/myPic3.jpg"/>
+    <img id="mimg" text-align="center" alt="creds"  src="img/myPic3.jpg"/>
    <nav class="nav nav-pills">
      <ul>
        <a href="/public/login.php"><h3><font>Rover1</font></h3></a>
