@@ -1,11 +1,10 @@
 <?php
 require 'aws-autoloader.php';
 ?>
-<!DOCTYPE html
-        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <title>Jody Moore</title>
     <link href="/css1/bootstrap.min.css" rel="stylesheet"/>
     <link href="/css1/bootstrap-theme.min.css" rel="stylesheet"/>
@@ -32,8 +31,7 @@ require 'aws-autoloader.php';
    </div>
    <div id="PAWS">
    <article>
-   <header class="post-header">
-     <img id = "imgpaws"alt="paws"  src="img/paws.png" width="30%" height="30%" />
+     <img id = "imgpaws"alt="paws" text-align="center" src="img/paws.png" width="30%" height="30%" />
      <section>
        <p>
         This site is powered by a public facing L.A.M.P production server hosted on an Amazon Web Services Ec-2 instance deployed in a Virtual Private Cloud  for increased security. The site is Highly-Available and fault tolerent. 
