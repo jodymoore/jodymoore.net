@@ -39,16 +39,9 @@ padding-top: 50px;
 }
 
 #imgpaws{
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
   display: block;
-}
-
-#middle img {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  
+    padding-bottom: 3%;
 }
 
 #middle nav{
@@ -67,9 +60,9 @@ padding-top: 50px;
   margin-left: 5%;
   width: 25%;
   height: 30%;
+  padding-top: 3%;
+
 }
-
-
 
 #bottom img {
   margin-left: auto;
