@@ -31,12 +31,12 @@ require 'aws-autoloader.php';
    <div id="PAWS">
    <article>
    <header class="post-header">
-     <h2 class="post-title">Powered By AWS</a></h2>
+     <img id = "imgpaws"alt="paws"  src="img/paws.png" width="30%" height="30%" />
      <section>
        <p>
         This site is powered by a public facing L.A.M.P web server hosted on an Amazon Web Services Ec-2 instance deployed in a Virtual Private Cloud  for increased security. The site is Highly-Available and fault tolerent. 
        </p>
-       <img id = "imgpaws"alt="paws"  src="img/paws.png" width="25%" height="25%" /> 
+        
      </section>  
    </article>  
    </div>
