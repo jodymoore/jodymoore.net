@@ -17,9 +17,25 @@
   border-radius: 10px;
 }
 
+#iot {     
+  border-radius: 10px;
+  width: 80px;
+  height: 47px;
+}
+
+#devpic {     
+  border-radius: 10px;
+  width: 80px;
+  height: 47px;
+  background-color: #1a96d7;
+
+}
+
+
 #top{  
   border-top: 5px solid black;    
   background-color: #CCCCCC;
+  height: 125px;
   border-bottom: 5px solid black;
 }
 
