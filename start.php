@@ -20,8 +20,8 @@
     <img id="mimg" text-align="center" alt="creds" src="img/dev.png"/>
    <nav class="nav nav-pills">
      <ul>      
-     <a href="http://a4.jodymoore.net"><img id="quikPizza"  alt="creds"  src="img/pizza-icon.png" width="25px"  height="50px" /></a><br><caption> 
-     <font id ="quikPizza" >Link to Quik Pizza app</font></caption>
+     <a href="http://a4.jodymoore.net"><img id="iot"  alt="creds"  src="img/pizza-icon.png" width="25px"  height="50px" /></a><br><caption> 
+     <font id ="cap" >Link to Quik Pizza app</font></caption>
      <br>
      <br>
      <ul>      
