@@ -17,16 +17,20 @@
    <div id="top">
    </div>
    <div id="middle"> 
-    <img id="mimg" text-align="center" alt="creds"  src="img/devopsLogo.png"/>
+    <img id="mimg" text-align="center" alt="creds" src="img/dev.png"/>
    <nav class="nav nav-pills">
+     <ul>      
+     <a href="http://a4.jodymoore.net"><img id="quikPizza"  alt="creds"  src="img/pizza-icon.png" width="25px"  height="50px" /></a><br><caption> 
+     <font id ="quikPizza" >Link to Quik Pizza app</font></caption>
+     <br>
+     <br>
      <ul>      
      <a href="/public/login.php"><img id="iot"  alt="creds"  src="img/iot.png" width="25px"  height="50px" /></a><br><caption> 
      <font id ="cap" >Link to Rover1 a network controlled remote operated vehichle</font></caption>
      <br><br>
      <a href="/SimpleInvoice/index.php"><img id="devpic"  alt="creds"  src="img/devPic.png"/></a><br><caption><font id ="cap" >Link to Simple Invoice current development</font></caption>
      </ul>
-   </nav>
-      
+   </nav>    
    </div> 
    <div id="bottom">
      <img alt="creds"  src="img/CSA.jpg" width="10%" height="10%" />   
