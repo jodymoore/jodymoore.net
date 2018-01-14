@@ -35,6 +35,12 @@
   color: blue;
 }
 
+#qpa {     
+  border-radius: 10px;
+  width: 80px;
+  height: 47px;
+}
+
 #iot {     
   border-radius: 10px;
   width: 80px;
